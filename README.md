@@ -1,2 +1,2 @@
 # TheBitMarket
-Standardized computational bit fiscal system.
+Systematic standardized computational bit fiscal system.

@@ -1,4 +1,3 @@
 # TheBitMarket
-Systemati standardized BIT fiscal system.
-
+Systematistandardized BIT fiscal system
 a CLM Limited Liability Company product

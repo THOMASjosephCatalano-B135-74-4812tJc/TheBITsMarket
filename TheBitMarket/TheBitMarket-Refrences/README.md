@@ -1,3 +1,3 @@
-# TheBitMarket
- the BIT market
+# TheBITsMarket
+ the BIT(s) market
 a CLM Limited Liability Company product

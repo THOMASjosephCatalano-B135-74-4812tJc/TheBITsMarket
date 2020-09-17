@@ -1,15 +1,8 @@
-THOMAS CATALANO License
+THOMAS CATALANO License.x
 
-Copyright (c) ;"";THOMAS CATALANO();
-Copyright (c) ;"";CATALANO THOMAS();
-Copyright (c) ;"THOMAS CATALANO";
-Copyright (c) ;Copyright (c)
-Copyright (c) ;"";"Copyright (c)";
-Copyright (c) ;"";"All rights reserved.";
-Copyright (c) ;"";"License";
-Copyright (c) ;"";THOMAS CATALANO License():
+Copyright (c) THOMAS CATALANO
 
-All rights reserved.             
+All rights reserved.             
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
